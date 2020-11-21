@@ -17,6 +17,7 @@ footer_text: >
 url: https://welcometotheblackparade.github.io 
 baseurl: / 
 last_updated: false # set to true if you want to display last updated in the footer
+remote_theme: mmistakes/minimal-mistakes
 
 # -----------------------------------------------------------------------------
 # Layout
