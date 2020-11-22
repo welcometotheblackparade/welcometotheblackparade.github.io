@@ -605,8 +605,8 @@ a:hover {
 .btn {
   font-size: 14px;
   color: #fff;
-  background-color: #8bc34a;
-  border: 1px solid #92c755;
+  background-color: #151B54;
+  border: 1px solid #151B54;
   border-radius: 2px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
   padding: 6px 12px;
@@ -616,8 +616,8 @@ a:hover {
 }
 .btn:hover {
   color: #fff;
-  border: 1px solid #84bf3f;
-  background-color: #7eb73d;
+  border: 1px solid #000080;
+  background-color: #000080;
   box-shadow: 0;
 }
 
